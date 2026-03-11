@@ -37,7 +37,8 @@ cmake ..
 make
 ```
 
-## Relevant Papers
+# Publications
+
 A Software-Based Approach to Radiation Mitigation for Planetary Missions, 2026 IEEE Aerospace Conference
 
 [Radshield: Software Radiation Protection for Commodity Hardware in Space](https://dl.acm.org/doi/abs/10.1145/3760250.3762218), ASPLOS 2026
