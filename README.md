@@ -37,12 +37,16 @@ cmake ..
 make
 ```
 
+# Flight Heritage
+
+* Mars 2020 Helicopter Base Station
+
 # Publications
 
-A Software-Based Approach to Radiation Mitigation for Planetary Missions, 2026 IEEE Aerospace Conference
+[A Software-Based Approach to Radiation Mitigation for Planetary Missions](https://ieeexplore.ieee.org/abstract/document/11519792/), 2026 IEEE Aerospace Conference
 
 [Radshield: Software Radiation Protection for Commodity Hardware in Space](https://dl.acm.org/doi/abs/10.1145/3760250.3762218), ASPLOS 2026
 
-[Censible: A Robust and Practical Global Localization Framework for Planetary Surface Missions](https://www-robotics.jpl.nasa.gov/media/documents/2024_Global_Localization_ICRA.pdf), ICRA 2024
+[Censible: A Robust and Practical Global Localization Framework for Planetary Surface Missions](https://ieeexplore.ieee.org/abstract/document/10611697), ICRA 2024
 
 [Enabling Long & Precise Drives for The Perseverance Mars Rover via Onboard Global Localization](https://doi.org/10.48577/jpl.V3LJNP), 2024 IEEE Aerospace Conference
